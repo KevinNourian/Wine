@@ -18,7 +18,7 @@ Red wine is an alcoholic beverage made by fermenting the juice of dark-skinned g
 The dataset I used in this report is the Red Wine Quality dataset from Kaggle.
 
 # Conclusions
-**This Analysis:** I reviewed nearly 1,600 data points of red Portuguese "Vinho Verde" wines.
+**This Analysis:** I reviewed nearly 1,600 data points of red Portuguese "Vinho Verde" wines.<br>
 **Multivariant Logistic Regression Model to Predict Quality:** The logistic regression model I tested in this report used 7 features. It predicted quality with an ADEQUATE accuracy score of 0.78. <br>
 **Multivariant Decision Tree Model to Predict Quality:** The decision tree model I tested in this report used 7 features. It predicted quality with an ADEQUATE accuracy score of 0.79. <br>
 **Multivariant Linear Regression Model to Predict Alcohol:** The linear regression model I tested in this report used 6 features. It predicted alcohol with an INADEQUATE R-Squared value of 0.44 and an INADEQUATE adjusted R-Squared value of 0.39. <br>
